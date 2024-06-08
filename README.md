@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavithra Moorthy</h1>
-<h3 align="center">A passionate Data science</h3>
+<h3 align="center">A Passionate Data Analyst</h3>
 
 - 🌱 I’m currently learning **Python, Azure**
 
